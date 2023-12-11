@@ -1,3 +1,3 @@
-# Automatic-Number-Plate-Recognition
+# Sign Language Detection using Action Recognition
 
 Detecting Number Plates
